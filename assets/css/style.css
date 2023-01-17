@@ -1,0 +1,23 @@
+html, body {
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(37, 85, 35);
+    color: aliceblue;
+}
+.title{
+  text-align: center;
+  font-size: 25px;
+  background-color: rgb(12, 11, 11);
+  padding: 20px;
+
+}
+.cart{
+    position: relative;
+    width: 150px;
+    left: 100px;
+    margin-left: -75px;
+
+}
+#jugador, #computadora{
+    height: 240px;
+}

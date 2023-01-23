@@ -10,3 +10,4 @@
 
 # V2 proximamente con módulos
 
+## Ya creado, [git clone para ver las diferencias](https://github.com/profsofia/BlackJack.git)
